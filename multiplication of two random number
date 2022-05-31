@@ -1,0 +1,7 @@
+import random
+a = random.random()
+print("First Random float is ", a)
+b = random.uniform(5.5,14.5)
+print("Second Random float is ", b)
+c = a * b
+print("Multiplication is ", c)
