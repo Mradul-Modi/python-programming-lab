@@ -1,0 +1,10 @@
+import random
+a = [5,9,14,15]
+print("Original list : ")
+print(a)
+random.shuffle(a)
+print("\nAfter the first shuffle : ")
+print("\na")
+random.shuffle(a)
+print("\nAfter the second shuffle : ")
+print(a)
