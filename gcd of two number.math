@@ -1,0 +1,7 @@
+import math
+ 
+a = int(input("enter number"))
+r = int (input ("enter number"))
+ 
+print ("The gcd of r and p is : ", end="")
+print (math.gcd(r, p))
