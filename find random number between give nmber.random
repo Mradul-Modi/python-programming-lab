@@ -1,0 +1,5 @@
+import random
+a = random.randint(0, 100)
+print("Random number between 0 and 100 is % s" % (a))
+b= random.randint(-105, -10)
+print("Random number between -105 and -10 is % d" % (b))
