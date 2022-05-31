@@ -1,0 +1,7 @@
+import random
+z = [1,2,34,55,8,9,6,3]
+print(random.choice(z))
+a = "BMW"
+print(random.choice(a))
+b = (5,9,14,1,23,45)
+print(random.choice(b))
