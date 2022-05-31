@@ -1,0 +1,12 @@
+es (8 sloc) 252 Bytes
+import math
+ 
+a = math.pi/4
+ 
+
+print ("The value of sine of pi/4 is : ", end="")
+print (math.sin(a))
+ 
+
+print ("The value of cosine of pi/4 is : ", end="")
+print (math.cos(a))
